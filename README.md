@@ -2,7 +2,8 @@
 ## Logo
 
 
-<img src="https://user-images.githubusercontent.com/94934469/213943844-1421bebb-0ca8-44f8-9d04-5b8a2269911d.png" width="200px">
+
+<img src="https://user-images.githubusercontent.com/94934469/213944812-1118523e-9011-4869-8119-7e49ba914003.png" width="200px">
 
 ## Preview
 
